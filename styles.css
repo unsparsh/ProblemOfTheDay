@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 400px;
+    padding: 10px;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 16px;
+    color: #333;
+    margin-top: 20px;
+  }
+  
+  div {
+    margin: 10px 0;
+  }
+  
+  a {
+    color: #1a73e8;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
